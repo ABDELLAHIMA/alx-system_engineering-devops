@@ -1,0 +1,2 @@
+#!/bin/bush
+echo $((`echo $PATH -0 ":/" wc -1`+ 1))
