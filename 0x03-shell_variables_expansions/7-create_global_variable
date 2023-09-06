@@ -1,2 +1,2 @@
-#!/bin/bush
-export BEST=school
+#!/bin/bash
+export BEST=School
