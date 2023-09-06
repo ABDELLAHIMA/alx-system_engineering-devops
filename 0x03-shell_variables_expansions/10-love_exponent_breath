@@ -1,2 +1,3 @@
-#!/bin/bush
-echo $(($NREATH**$LOVE))
+#!/bin/bash
+echo $((BREATH**$LOVE))
+
